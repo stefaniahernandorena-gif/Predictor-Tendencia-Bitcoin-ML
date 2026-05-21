@@ -9,9 +9,9 @@ La volatilidad extrema que caracteriza al mercado de las criptomonedas hace que 
 
 ### 3. Audiencia
 Este análisis y las predicciones del modelo están diseñados para beneficiar a:
-* **Inversores y Traders Particulares:** Que requieren herramientas técnicas para validar sus tesis de inversión antes de arriesgar capital.
-* **Analistas de Riesgo Financiero:** Que buscan incorporar modelos cuantitativos para medir la probabilidad de movimientos adversos en carteras digitales.
-* **Roles Ejecutivos y Gestores de Cartera:** Que necesitan una visión respaldada por datos sobre el comportamiento predictivo de los activos.
+* **Inversores y Traders Particulares** que requieren herramientas técnicas para validar sus tesis de inversión antes de arriesgar capital.
+* **Analistas de Riesgo Financiero** que buscan incorporar modelos cuantitativos para medir la probabilidad de movimientos adversos en carteras digitales.
+* **Roles Ejecutivos y Gestores de Cartera** que necesitan una visión respaldada por datos sobre el comportamiento predictivo de los activos.
 
 ### Insights y Conclusiones Finales
 
